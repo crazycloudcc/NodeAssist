@@ -1,0 +1,24 @@
+{
+  "name": "nodeassist",
+  "version": "0.1.0",
+  "description": "node.js assist codes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazycloudcc/nodeassist.git"
+  },
+  "keywords": [
+    "cc",
+    "node",
+    "assist"
+  ],
+  "author": "crazycloudcc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crazycloudcc/nodeassist/issues"
+  },
+  "homepage": "https://github.com/crazycloudcc/nodeassist#readme"
+}
