@@ -1,0 +1,26 @@
+
+{
+    "filename" : "logs/debug.log",
+    "level" : "debug",
+    "console" : true,
+    "logserver" : {
+        "base" : "http://test.joocgame.com:8888",
+        "uri_debug" : "/debug.access"
+    },
+    "log4js" : {
+        "appenders" : [
+            { "type" : "console" },
+            {
+                "type" : "file",
+                "maxLogSize" : 10240000,
+                "backups" : 100,
+                "category" : "normal",
+                "alwaysIncludePattern" : true,
+                "layout" : { "type" : "base" }
+            }
+        ]
+    }
+}
+
+
+
