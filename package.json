@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/crazycloudcc/nodeassist/issues"
   },
-  "homepage": "https://github.com/crazycloudcc/nodeassist#readme"
+  "homepage": "https://github.com/crazycloudcc/nodeassist#readme",
+  "dependencies": {
+    "log4js": "0.6.26"
+  },
+  "engines": {
+    "node": ">=4.4.2"
+  }
 }
