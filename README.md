@@ -11,5 +11,7 @@ v0.1.0
     * add global function: twodigits.
 
 ---------------------------------------------------------------
-V0.1.3
+V0.1.4
+1. ccprototype.js
+    * add String.replace_with_index.
 
