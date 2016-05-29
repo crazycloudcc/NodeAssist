@@ -1,6 +1,6 @@
 
 {
-    "filename" : "logs/debug.log",
+    "filename" : "logs/debug",
     "level" : "debug",
     "console" : true,
     "logserver" : {
