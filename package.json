@@ -1,6 +1,6 @@
 {
   "name": "nodeassist",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "node.js assist codes.",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/crazycloudcc/nodeassist#readme",
   "dependencies": {
-    "log4js": ">=0.6.26"
+    "log4js": ">=0.6.26",
+    "moment": "^2.13.0"
   },
   "engines": {
     "node": ">=4.4.2"
