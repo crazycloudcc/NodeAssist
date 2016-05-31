@@ -1,7 +1,7 @@
 
 
 ---------------------------------------------------------------
-v0.1.6
+v0.1.7
 1. ccprototype.js
     * move twodigits function from ccutil.js.
 2. ccutil.js
